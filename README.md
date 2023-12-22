@@ -1,25 +1,25 @@
 Hi 👋, I'm Suguresh
 A passionate full stack developer from India
 
-🔭 I’m currently working on Hibernate, Spring boot
+* 🔭 I’m currently working on Hibernate, Spring boot
 
-🌱 I’m currently learning j2EE Frameworks
+* 🌱 I’m currently learning j2EE Frameworks
 
-💬 Ask me about Java
+* 💬 Ask me about Java
 
-📫 How to reach me suguchingudi@gmail.com
+* 📫 How to reach me suguchingudi@gmail.com
 
 Languages, FrameWorks and Tools:
 --------------------------------
-Java Programming
+* Java Programming
 
-Spring Boot, Spring MVC, Spring Core
+* Spring Boot, Spring MVC, Spring Core
 
-Hibernate, JDBC
+* Hibernate, JDBC
 
-HTML, CSS,
+* HTML, CSS,
 
-MySQL
+* MySQL
 
 
 <!---
