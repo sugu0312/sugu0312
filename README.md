@@ -9,7 +9,7 @@ A passionate full stack developer from India
 
 📫 How to reach me suguchingudi@gmail.com
 
-Languages, FrameWorks and Tools:
+Languages, FrameWorks and Tools:-----------------------------
 
 Java Programming
 
